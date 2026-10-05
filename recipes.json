@@ -1,0 +1,19 @@
+[
+ {"name":"Palak Paneer","time":30,"diet":"veg","ingredients":["spinach","paneer","onion","tomato","ginger","garlic"],"steps":["Blanch spinach 2 min, blend to a puree.","Saute onion, ginger, garlic; add tomato and cook soft.","Add spices, puree and paneer cubes; simmer 5 min."]},
+ {"name":"Aloo Gobi","time":30,"diet":"veg","ingredients":["potato","cauliflower","onion","tomato"],"steps":["Fry onion, add tomato and spices.","Add potato and cauliflower, cover and cook on low until tender (15-20 min)."]},
+ {"name":"Matar Paneer","time":25,"diet":"veg","ingredients":["pea","paneer","onion","tomato"],"steps":["Make an onion-tomato masala.","Add peas and paneer, simmer 8 min."]},
+ {"name":"Egg Bhurji","time":10,"diet":"egg","ingredients":["egg","onion","tomato","chilli"],"steps":["Saute onion, chilli, tomato.","Add beaten eggs and scramble until set."]},
+ {"name":"Vegetable Pulao","time":30,"diet":"veg","ingredients":["rice","carrot","pea","onion","capsicum"],"steps":["Saute onion and vegetables with whole spices.","Add rinsed rice and 2x water; cook covered until fluffy."]},
+ {"name":"Tomato Dal","time":30,"diet":"veg","ingredients":["lentil","tomato","onion","garlic"],"steps":["Pressure-cook lentils until soft.","Temper cumin, garlic, onion and tomato; mix into the dal."]},
+ {"name":"Paneer Bhurji","time":15,"diet":"veg","ingredients":["paneer","onion","tomato","capsicum"],"steps":["Saute onion, capsicum and tomato.","Crumble in paneer, season and cook 4 min."]},
+ {"name":"Veg Sandwich (Toasted)","time":10,"diet":"veg","ingredients":["bread","tomato","cucumber","onion"],"steps":["Layer sliced vegetables between bread.","Toast until golden."]},
+ {"name":"Masala French Toast","time":10,"diet":"egg","ingredients":["bread","egg","onion","chilli"],"steps":["Whisk egg with chopped onion, chilli and salt.","Dip bread and pan-fry both sides."]},
+ {"name":"Raita","time":5,"diet":"veg","ingredients":["yogurt","cucumber","onion"],"steps":["Whisk yogurt, fold in grated cucumber and onion.","Season with salt and roasted cumin."]},
+ {"name":"Kheer (Rice Pudding)","time":40,"diet":"veg","ingredients":["milk","rice","sugar"],"steps":["Simmer washed rice in milk, stirring often.","Sweeten when creamy; add cardamom."]},
+ {"name":"Banana Pancakes","time":15,"diet":"egg","ingredients":["banana","egg","milk"],"steps":["Mash banana, whisk with egg and a splash of milk.","Cook small pancakes on a non-stick pan."]},
+ {"name":"Aloo Paratha","time":30,"diet":"veg","ingredients":["potato","wheat flour","onion","chilli"],"steps":["Mix mashed potato, onion, chilli and spices.","Stuff into dough, roll and cook with a little oil."]},
+ {"name":"Chana Masala","time":35,"diet":"veg","ingredients":["chickpea","onion","tomato","ginger","garlic"],"steps":["Cook an onion-tomato masala with ginger and garlic.","Add boiled chickpeas, simmer 12 min."]},
+ {"name":"Cabbage Carrot Stir-fry","time":15,"diet":"veg","ingredients":["cabbage","carrot","onion"],"steps":["Saute onion, add shredded vegetables.","Stir-fry on high heat 5 min."]},
+ {"name":"Veg Fried Rice","time":20,"diet":"veg","ingredients":["rice","carrot","capsicum","cabbage","onion"],"steps":["Stir-fry vegetables on high heat.","Toss in cooked rice and soy sauce."]},
+ {"name":"Egg Fried Rice","time":15,"diet":"egg","ingredients":["rice","egg","onion","carrot"],"steps":["Scramble eggs, set aside.","Stir-fry vegetables, add rice and eggs."]}
+]
