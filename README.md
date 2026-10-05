@@ -1,4 +1,4 @@
-# 🥬 PantryPulse
+# 🥬 PantryPulse - https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/
 
 A Streamlit app that helps a household **waste less food and save money**.
 
