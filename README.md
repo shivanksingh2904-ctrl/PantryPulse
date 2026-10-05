@@ -1,5 +1,6 @@
 # 🥬 PantryPulse
 LIVE LINK - https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/
+
 A Streamlit app that helps a household **waste less food and save money**.
 
 **The problem:** UNEP's Food Waste Index (2021) estimates households are the biggest source of
