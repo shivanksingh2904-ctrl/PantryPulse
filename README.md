@@ -1,7 +1,7 @@
-# 🥬 PantryPulse - https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/
+# 🥬 PantryPulse 
 
 A Streamlit app that helps a household **waste less food and save money**.
-
+Live - - https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/
 **The problem:** UNEP's Food Waste Index (2021) estimates households are the biggest source of
 food waste, about 50 kg per person per year in India. Most of it is food that simply gets forgotten
 until it spoils.
