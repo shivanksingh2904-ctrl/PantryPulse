@@ -1,7 +1,7 @@
-# 🥬 PantryPulse 
+# 🥬 PantryPulse
 
 A Streamlit app that helps a household **waste less food and save money**.
-Live - - https://pantrypulse-tlaaavgqpk89yx33zelxh4.streamlit.app/
+
 **The problem:** UNEP's Food Waste Index (2021) estimates households are the biggest source of
 food waste, about 50 kg per person per year in India. Most of it is food that simply gets forgotten
 until it spoils.
@@ -21,9 +21,18 @@ streamlit run app.py
 ```
 Open the sidebar and press **Load sample data** to explore with demo groceries.
 
+## Alerts (email)
+The **Alerts** tab sends a "these items are about to expire" message. Credentials live in
+**Streamlit secrets** (never in GitHub). In Streamlit Cloud: *Manage app > Settings > Secrets*:
+```toml
+EMAIL_SENDER = "yourname@gmail.com"
+EMAIL_APP_PASSWORD = "your 16-character Google app password"
+```
+Locally you can use environment variables with the same names.
+
 ## Run the tests (no Streamlit needed)
 ```bash
-python -m unittest test_pantrypulse -v
+python -m unittest discover -v
 ```
 
 ## Project layout (flat - all files in the repo root)
@@ -33,6 +42,8 @@ engine.py            Pure logic: status, recipe ranking, waste stats (pandas)
 db.py                SQLite storage (stdlib sqlite3)
 recipes.json         17 editable recipes - add your own!
 test_pantrypulse.py  13 unit tests
+alerts.py            Email alerts (standard library only)
+test_alerts.py       Alert tests (sending is mocked)
 requirements.txt
 ```
 Data is stored in `pantry.db` (change with the `PANTRY_DB` environment variable).
